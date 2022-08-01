@@ -10,3 +10,4 @@ colored = "*"
 itertools = "*"
 rand = "*"
 image = "*"
+uuid = {version = "0.4", features = ["v4"]}
